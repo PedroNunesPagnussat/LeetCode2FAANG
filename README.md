@@ -1,9 +1,4 @@
-
-
-
-
-
-# 🚀 Leet-to-FAANG: My Journey from Boredom to Big Bucks 🤑
+# 🚀 Leet-to-FAANG: My Journey from Boredom to Big Bucks 
 
 ## Why Did I Make This Repo?
 
